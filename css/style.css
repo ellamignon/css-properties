@@ -1,0 +1,115 @@
+body {
+  background-color: lightgray;
+  color: black;
+  font-size: 16px
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+  font-family: sans-serif;
+  line-height: normal;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  background: #fff url(css-exercise-two/images/instagram-pic.jpg) no-repeat top center;
+  width: 100%;
+}
+
+.medium-pic {
+  background: #fff url(css-exercise-two/images/bloc-logo.png) no-repeat top center;
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-style: normal;
+  font-family: sans-serif;
+  line-height: normal;
+}
+
+#navcontainer ul li a { text-decoration: none; }
+
+a:hover { background: yellow; }
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+
+}
+
+.story-text {
+  font-size: 0.9em;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: normal;
+
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+figcaption {
+  font-size: 0.7em;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: normal;
+
+}
+
+.author {
+  font-size: 0.8em;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: normal;
+
+}
+
+h1 {
+  font-size: 1.3em;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: normal;
+  }
+
+h3 {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: normal;
+  }
+
+}
